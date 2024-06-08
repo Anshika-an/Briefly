@@ -1,0 +1,6 @@
+Using pip 24.0 from C:\Users\Anshika\anaconda3\envs\briefly\Lib\site-packages\pip (python 3.12)
+Obtaining file:///D:/PROJECTS/Briefly (from -r requirements.txt (line 21))
+  Preparing metadata (setup.py): started
+  Running command python setup.py egg_info
+  Preparing metadata (setup.py): finished with status 'done'
+ERROR: No .egg-info directory found in C:\Users\Anshika\AppData\Local\Temp\pip-pip-egg-info-s7xe3zw1
